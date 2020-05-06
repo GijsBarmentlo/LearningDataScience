@@ -36,4 +36,11 @@ The purpose of this competition was to predict energy consumption of buildings. 
 
 The most interesting part of this project was the EDA, the data had a lot of noise, some specific missing values, etc.. which had to be handled properly before being able to use the data to train anything.
 
-ToDo : find the code of the actual model and upload it
+My takeaways :
+- EDA is challenging and is necessary to be able to clean data well
+- There is a lot of work involved before training 
+- Data exploration is more fun and involves a lot more thinking than i would have thought
+- Seaborn looks better than pyplot
+
+## Forest types
+Todo : write this part
