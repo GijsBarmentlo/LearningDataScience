@@ -5,7 +5,7 @@ I have been learning data science on my own for a while now and thouht it was a 
 
 ## Andrew NG machine learning course
 
-I'm not going to upload the code for these (computer died, long story).
+I'm not going to upload the code for these (computer died, long story). It's really a bible to get started !
 Did the full MOOC online and all associated exercises which involve coding many of the fundamental algorithms (svm, backpropagation, regression, ..) by hand
 
 ## Detecting solar panels
