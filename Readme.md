@@ -1,5 +1,5 @@
 # Motivation 
-I have been learning data science on my own for a while now and thouht it was a shame I had no repo to show off my work so .... I made a repo !
+I have been learning data science on my own for a while now and thouht it was a shame I had no repo to show off my work so .... I made a repo ! I didn't use this repo while i was working so i'm grouping some of my earlier projects under one repo (not what i owuld do for a project actually using git)
 
 # Content
 
