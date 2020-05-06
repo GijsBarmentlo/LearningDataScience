@@ -31,3 +31,9 @@ My takeaways :
 - Have a standard way of naming variables and stick to it
 - Having an actual business expert seems interesting, must try to find one for a project (if you are one, contact me =)
 
+## ASHRAE Energy predictor
+The purpose of this competition was to predict energy consumption of buildings. You might notice a trend : i like projects that could help with real socieatal issues like energy consumption (my intuition tells me we're gonna need some good data science to handle renewables and smartgrids)
+
+The most interesting part of this project was the EDA, the data had a lot of noise, some specific missing values, etc.. which had to be handled properly before being able to use the data to train anything.
+
+ToDo : find the code of the actual model and upload it
